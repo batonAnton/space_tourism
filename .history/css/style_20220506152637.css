@@ -1,0 +1,46 @@
+body {
+  height: 900px;
+  margin: 0;
+}
+
+.bg {
+  background-image: url(/images/back_Bitmap.jpg);
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.top-container {
+  display: inline-block;
+  margin: 100px 0px 0px 70px;
+  width: 100%;
+}
+
+.logo_img {
+  width: 555px;
+  float: left;
+}
+
+.nav {
+  /* filter: blur(4px); */
+  width: 60%;
+  float: right;
+  border: 1px solid #979797;
+  padding: 10px 90px 10px 90px  ;
+  background-blur;
+}
+
+ol {
+  display: inline-flex;
+  width: 200px;
+  margin-left: 70px;
+}
+
+li {
+  padding: 0 50px 0 50px;
+}
+
+.nav a {
+  color: #ffffff;
+}

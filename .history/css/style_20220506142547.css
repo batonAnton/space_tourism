@@ -1,0 +1,12 @@
+body {
+  height: 1500px;
+  margin: 0;
+}
+
+.bg {
+  background-image: url(/images/back_Bitmap.jpg);
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
